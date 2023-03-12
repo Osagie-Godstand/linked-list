@@ -2,11 +2,6 @@ package main
 
 import "fmt"
 
-//	All data structures
-//
-// Heaps(Arrays, list or slice) has a maxheap or minheap and forms a tree structure to demonstrate the relationship
-// between the keys. The algo for heap is heapsort which is a sorting algorithm.
-
 // Linked lists stores data in a sequence of nodes and they are linked to eachother using an address that indicates where the other node is.
 // Linked list allows you to add and delete something in the beginning element of a list easily.
 // A doubly linked list contains the address of the next node and the previus ndoe.
